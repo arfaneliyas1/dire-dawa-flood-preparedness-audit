@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "From Flood Maps to Action: An Open-Data Audit of Flood Preparedness and Early-Warning Evidence in Dire Dawa, Ethiopia"
+message: "Please cite this package when using the report, derived data, methods, or figures."
+type: dataset
+version: "1.0"
+date-released: 2026-10-06
+authors:
+  - family-names: Eliyas
+    given-names: Arfan
+    affiliation: Independent researcher
+    address: Dire Dawa, Ethiopia
+license: CC-BY-4.0
+keywords:
+  - Dire Dawa
+  - flood preparedness
+  - early warning systems
+  - disaster risk reduction
+  - open data
+  - urban resilience
+  - evidence audit
+abstract: >-
+  A secondary-evidence audit of flood preparedness and early-warning evidence in Dire Dawa, Ethiopia, with a source inventory, finding-level matrix, quality screening, analysis memo, report, executive brief, and reproducible derived figures.

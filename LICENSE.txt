@@ -1,0 +1,9 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Arfan Eliyas
+
+This license applies to the original report text, original charts, methods, derived tables, and original data compilations included in this package. You are free to share and adapt the covered material for any purpose, provided that you give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+License text: https://creativecommons.org/licenses/by/4.0/
+
+Third-party sources, links, restricted microdata, copyrighted documents, and external maps or datasets remain subject to their own terms and are not relicensed by this notice.

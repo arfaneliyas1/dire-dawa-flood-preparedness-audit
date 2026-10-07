@@ -1,0 +1,17 @@
+# Local Python and notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary exports and archives
+*.zip
+*.tmp
+*.bak

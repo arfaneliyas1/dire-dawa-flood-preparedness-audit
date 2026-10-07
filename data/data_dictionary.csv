@@ -1,0 +1,24 @@
+field,definition,source_file
+source_id,Stable source identifier matching the source inventory,source_inventory.csv
+finding_id,Stable finding identifier; one row represents one extracted finding,preparedness_evidence_matrix.csv
+domain,One of the seven preparedness-chain stages,preparedness_evidence_matrix.csv
+subdomain,Specific topic within a preparedness stage,preparedness_evidence_matrix.csv
+finding_text,Short objective statement of the evidence,preparedness_evidence_matrix.csv
+evidence_year,Year or period the finding describes,preparedness_evidence_matrix.csv
+publication_year,Year the source was published or released,preparedness_evidence_matrix.csv
+geography,City or locality described by the source,preparedness_evidence_matrix.csv
+population_or_system,Population, institution, or system described,preparedness_evidence_matrix.csv
+evidence_type,Survey, case study, model, plan, dataset, or other method,preparedness_evidence_matrix.csv
+evidence_status,Documented; Partial; Historical; Unverified current status; or Evidence gap,preparedness_evidence_matrix.csv
+confidence_level,High; Medium; or Low confidence in the extracted finding,preparedness_evidence_matrix.csv
+actionability,Immediate; needs validation; or context only,preparedness_evidence_matrix.csv
+key_caveat,Main limitation controlling use of the finding,preparedness_evidence_matrix.csv
+page_reference,Exact page or section when captured; otherwise Not specified,preparedness_evidence_matrix.csv
+quotation_or_paraphrase,Accurate short extract or careful paraphrase,preparedness_evidence_matrix.csv
+recency,1-5 score for evidence age,evidence_quality_scorecard.csv
+geographic_specificity,1-5 score for geographic detail,evidence_quality_scorecard.csv
+method_strength,1-5 score for method quality,evidence_quality_scorecard.csv
+public_accessibility,1-5 score for access and reuse,evidence_quality_scorecard.csv
+actionability,1-5 score for planning or validation usefulness,evidence_quality_scorecard.csv
+reusability,1-5 score for license and machine-readable reuse,evidence_quality_scorecard.csv
+evidence_quality_score,Average of six quality criteria,evidence_quality_scorecard.csv
